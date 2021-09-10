@@ -1,0 +1,9 @@
+<div class="post-container"> 
+    <div class="post-card" *ngFor="let post of posts">
+        <img class="post-image" src="{{post.image}}" alt="" />
+        <div class="post-card-content">
+            <div class = "post-card-title">{{post.title}}</div>
+            <div class= "post-card-body">{{post.body}}</div>
+        </div>
+    </div>
+</div>
