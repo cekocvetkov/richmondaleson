@@ -4,7 +4,28 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: sans-serif;
-    line-height: 1;
+@font-face {
+    font-family: Monserrat-Thin;
+    src: url(assets/fonts/Montserrat-Thin.ttf) format('truetype');
 }
+
+@font-face {
+    font-family: Monserrat-Regular;
+    src: url(assets/fonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Monserrat-Medium;
+    src: url(assets/fonts/Montserrat-Medium.ttf) format('truetype');
+}
+
+
+// #FF949E -pink
+// #EEBCBC - another pink
+body {
+    background-color: #F2F2F2;
+    font-family: Monserrat-Medium;
+    line-height: 1;
+    color: #777;
+}
+

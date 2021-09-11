@@ -28,6 +28,7 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/richmondlogo.png",
+              "src/richmondalesonlogo.png",
               "src/assets"
             ],
             "styles": [
