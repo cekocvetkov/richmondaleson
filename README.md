@@ -1,5 +1,6 @@
 # Richmondaleson
 A recreation of a minimal and simplistic website design (with mock data) using Angular. 
+
 ![image](https://github.com/cekocvetkov/richmondaleson/assets/7689051/f881d7e5-6e09-4726-8c53-455dc6f90253)
 
 
